@@ -68,7 +68,7 @@ dku=# \q
 This sample code creates the user Mary, with password Password, and grants this user all privileges (can create and delete tables) on the dku_tshirt schema in the dku database.
 Similarly, user "x" has been granted all privileges on the "y" schema in the database.
 
-Now, you have to add your database in Dataiku DSS by going to menu  > Administration > Connections > New Connection > PostgreSQL
+Now, you have to add your database in Dataiku DSS by going to Menu  > Administration > Connections > New Connection > PostgreSQL
 You give here the parameters of your database and create. Now you have connected the database to Dataiku.
 choose to store the new dataset into the PostgreSQL_tshirt (the name that you choose in new connection name).
 
